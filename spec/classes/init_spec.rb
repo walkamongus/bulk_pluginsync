@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe 'bulk_pluginsnyc' do
+describe 'bulk_pluginsync' do
   on_supported_os.each do |os, os_facts|
     context "on #{os}" do
       let(:facts) { os_facts }
