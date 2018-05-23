@@ -2,9 +2,11 @@
   "name": "npwalker-bulk_pluginsnyc",
   "version": "0.1.0",
   "author": "npwalker",
-  "summary": "",
+  "summary": "Puppet module for bulk downloading pluginsync files",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/npwalker/bulk_pluginsync",
+  "project_page": "https://github.com/npwalker/bulk_pluginsync",
+  "issues_url": "https://github.com/npwalker/bulk_pluginsync/issues",
   "dependencies": [
 
   ],
