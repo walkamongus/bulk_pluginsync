@@ -1,4 +1,3 @@
-Gemfile.lock
 .*.sw[op]
 .metadata
 .yardoc
@@ -20,4 +19,5 @@ Gemfile.lock
 /tmp/
 /vendor/
 /convert_report.txt
+/update_report.txt
 .DS_Store
